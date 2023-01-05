@@ -33,7 +33,7 @@ section {
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 15px 200px;
+    padding: 35px 200px;
 }
 
 .nav-title {
